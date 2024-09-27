@@ -1,2 +1,2 @@
 # CS-class 
-Computer Science class 2024
+Computer Science class 2024 ]
